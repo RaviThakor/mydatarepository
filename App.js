@@ -11,6 +11,7 @@ var data = 50 + 34;
 var data2;
 console.log(data2);
 console.log(data);
+console.log("this is third log...");
 
 function App() {
   return (
