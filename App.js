@@ -12,6 +12,7 @@ var data2;
 console.log(data2);
 console.log(data);
 console.log("this is third log...");
+console.log("another log...");
 
 function App() {
   return (
