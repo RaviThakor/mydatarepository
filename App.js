@@ -5,8 +5,11 @@ import Food from './foodApp';
 import RegisterScreen from './loginscreen';
 
 const Stack = createStackNavigator();
-var data;
+
+var data = 50 + 34;
 var data2;
+console.log(data2);
+console.log(data);
 
 function App() {
   return (
