@@ -6,6 +6,8 @@ import RegisterScreen from './loginscreen';
 
 const Stack = createStackNavigator();
 var data;
+var data2;
+console.log(data2);
 
 function App() {
   return (
